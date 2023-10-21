@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **irfu3844@gmail.com**
 
-- ⚡ Fun fact **I am hard worker**
+- ⚡ **I am hard worker**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
