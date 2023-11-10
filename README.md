@@ -78,7 +78,7 @@
 <a href="https://github.com/https://github.com/Irfanali0660" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
-<a href="https://instagram.com/www.linkedin.com/in/irfan-ali-8b868723b" target="_blank">
+<a href="https://instagram.com/the_immortal_777?igshid=OGQ5ZDc2ODk2ZA==" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>
 <a href="https://linkedin.com/in/www.linkedin.com/in/irfan-ali-8b868723b" target="_blank">
