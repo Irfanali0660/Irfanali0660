@@ -2,7 +2,7 @@
 
   
 
-### <div align="center">A passionate MEAN developer from India👨‍💻.</div>  
+ <div align="center"><h3 align="center">A passionate MEAN developer from India👨‍💻</h3></div>  
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Irfanali0660&label=Profile%20views&color=0e75b6&style=flat" alt="Irfanali0660" /> </p>
 
 - 🌱 I’m currently learning Angular  
