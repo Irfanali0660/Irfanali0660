@@ -11,7 +11,7 @@
 - ❓ Ask me about anything related to MEAN stack and related technologies  
   
 
-- 👨🏻‍💻 Personal Website [Portfolio](https://irfanali.club)
+- 👨🏻‍💻 Personal Website [Portfolio](https://irfanali0660.github.io/portfolio/)
   
 
 - 📫 How to reach me irfu3844@gmail.com  
